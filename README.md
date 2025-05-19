@@ -276,14 +276,9 @@ Verilog and SMV files. Properties can be given in LTL or a fragment of System
 Verilog Assertions.*"
 
 - Link: http://www.cprover.org/ebmc/
-- Licence: http://www.cprover.org/ebmc/download/license.txt
-- Written in: _Unknown_.
-
-Note: Only the binaries for EBMC can be downloaded, no source-code is
-available.  It's included on this list because it is a powerful tool which
-would otherwise not be available to the open hardware community.
-For a completely free and open tool with similar capabilities,
-look at [SymbiYosys](#symbiyosys).
+  - Source: https://github.com/diffblue/hw-cbmc
+- Licence: https://github.com/diffblue/hw-cbmc/blob/main/LICENSE
+- Written in: C++.
 
 **CBMC:**
 
